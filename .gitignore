@@ -1,0 +1,16 @@
+__pycache__
+/.idea
+.env
+.env_develop
+.DS_Store
+usage_logs
+venv
+/.cache
+.vscode
+logfile.log
+nohup.out
+alembic/versions/
+tmp_audio/
+staticfiles/
+app.log
+cronjobs/renew_certificates.log
